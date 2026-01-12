@@ -13,7 +13,7 @@ Full scan performed - up to an hour to process
 
 Users browser is Microsoft Edge
 
-Accessed Settings - Privacy, search and services - site permissions - All sites
+Accessed browser Settings - Privacy, search and services - site permissions - All sites
 
 Cosmobotshield.co.in and curevonix.co.in with 3 tabs each within
 
