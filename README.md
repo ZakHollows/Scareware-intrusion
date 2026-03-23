@@ -2,7 +2,13 @@
 
 # Summary
 
-Malware detected from pop up messages showing virus infection, click link to clear. System was Isolated, parameters of virus scan updated with quick scan performed followed by full system scan. No threats detected, link on pop up showing specific URL,further investigation showing access from cookies from previously accessed site. Cache cleared, websites blocked for all access to and from, pop ups ceased. Second full system scan to verify integrity, no threats found with no recently installed or downloaded files or programs. System back to normal.
+Malware detected from pop up messages showing various virus infection messages, click link to clear.
+System was Isolated, research in to type of malware infection followed by updating parameters of virus scan. 
+Quick scan performed followed by full system scan, no threats detected.
+Link on pop up showing two specific URLs, further investigation showing access from cookies from previously accessed site.
+Cache cleared, websites blocked for all access to and from, pop ups ceased.
+Second full system scan to verify integrity, no threats found with no recently installed or downloaded files or programs. 
+System verified
 
 I learned how malware can present without being on the device and how to remove access to avoid further infection or damage
 
