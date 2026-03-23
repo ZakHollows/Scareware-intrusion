@@ -1,7 +1,12 @@
-# Scareware-intrusion
+# Malware detection and removal 
 
-Documentation of scareware intrusion creating pop ups 
+# Summary
 
+Malware detected from pop up messages showing virus infection, click link to clear. System was Isolated, parameters of virus scan updated with quick scan performed followed by full system scan. No threats detected, link on pop up showing specific URL,further investigation showing access from cookies from previously accessed site. Cache cleared, websites blocked for all access to and from, pop ups ceased. Second full system scan to verify integrity, no threats found with no recently installed or downloaded files or programs. System back to normal.
+
+I learned how malware can present without being on the device and how to remove access to avoid further infection or damage
+
+# Documentation
 
 User tried to access website, screen saying threat detection and virus detection, User closed the tab
 
